@@ -14,6 +14,7 @@ The goal of this repository is to consolidate workflows for various pathogens, c
   - [Gastrointestinal Diseases](#gastrointestinal-diseases)
   - [Emerging Infectious Diseases](#emerging-infectious-diseases)
   - [WHO Priority Pathogens](#who-priority-pathogens)
+  - [WHO Priority Diseases](#who-priority-diseases)
   - [Antimicrobial Resistance (AMR)](#antimicrobial-resistance-amr)
 - [Updates](#updates)
 - [Contributing](#contributing)
@@ -138,6 +139,7 @@ Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository ai
   - *Rift Valley fever*
   - *Zika virus disease*
   - *Coronavirus disease (COVID-19)*
+  - *“Disease X”**
 
 ### Antimicrobial Resistance (AMR)
 - **Key Pathogens**:
