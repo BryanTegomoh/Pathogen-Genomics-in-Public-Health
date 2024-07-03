@@ -128,6 +128,17 @@ Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository ai
   - *Aspergillus fumigatus*
   - *Candida albicans*
 
+## WHO Priority Diseases
+- **Viruses**:
+  - *Ebola virus disease*
+  - *Lassa fever*
+  - *Crimean-Congo haemorrhagic fever*
+  - *Middle East respiratory syndrome coronavirus (MERS-CoV)*
+  - *Nipah virus infection*
+  - *Rift Valley fever*
+  - *Zika virus disease*
+  - *Coronavirus disease (COVID-19)*
+
 ### Antimicrobial Resistance (AMR)
 - **Key Pathogens**:
   - *Carbapenem-resistant Enterobacteriaceae (CRE)*
