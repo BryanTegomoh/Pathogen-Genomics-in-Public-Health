@@ -3,28 +3,29 @@ The goal of this repository is to consolidate workflows for various pathogens, c
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Workflows](#workflows)
-  - [Respiratory Diseases](#respiratory-diseases)
-  - [Healthcare-Associated Infections (HAIs)](#healthcare-associated-infections-hais)
-  - [Vector-Borne Diseases](#vector-borne-diseases)
-  - [Foodborne Diseases](#foodborne-diseases)
-  - [Sexually Transmitted Infections (STIs)](#sexually-transmitted-infections-stis)
-  - [Vaccine-Preventable Diseases](#vaccine-preventable-diseases)
-  - [Zoonotic Diseases](#zoonotic-diseases)
-  - [Gastrointestinal Diseases](#gastrointestinal-diseases)
-  - [Emerging Infectious Diseases](#emerging-infectious-diseases)
-  - [WHO Priority Pathogens](#who-priority-pathogens)
-  - [WHO Priority Diseases](#who-priority-diseases)
-  - [Antimicrobial Resistance (AMR)](#antimicrobial-resistance-amr)
-- [Updates](#updates)
+- [Respiratory Diseases](#respiratory-diseases)
+- [Healthcare-Associated Infections (HAIs)](#healthcare-associated-infections-hais)
+- [Vector-Borne Diseases](#vector-borne-diseases)
+- [Foodborne Diseases](#foodborne-diseases)
+- [Sexually Transmitted Infections (STIs)](#sexually-transmitted-infections-stis)
+- [Vaccine-Preventable Diseases](#vaccine-preventable-diseases)
+- [Zoonotic Diseases](#zoonotic-diseases)
+- [Gastrointestinal Diseases](#gastrointestinal-diseases)
+- [Parasitic Diseases](#parasitic-diseases)
+- [Emerging Infectious Diseases](#emerging-infectious-diseases)
+- [WHO Priority Pathogens](#who-priority-pathogens)
+- [WHO Priority Diseases](#who-priority-diseases)
+- [Antimicrobial Resistance (AMR)](#antimicrobial-resistance-amr)
+- [Cross-Cutting Methodologies](#cross-cutting-methodologies)
+- [Resources](#resources)
+- [Scientific Updates](#scientific-updates)
 - [Contributing](#contributing)
 
 ## Introduction
 Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository aims to provide comprehensive workflows for a wide range of pathogens, categorized by the diseases they cause. It is designed to be a valuable resource for researchers, public health professionals, and epidemiologists to enhance their efforts in detecting, tracking, and responding to infectious disease threats.
 
-## Workflows
-
-### Respiratory Diseases
+## Respiratory Diseases
+Respiratory diseases include infections that affect the respiratory system. These pathogens can cause illnesses ranging from mild colds to severe respiratory syndromes.
 - **Viruses**:
   - *SARS-CoV-2*
   - *Influenza A and B*
@@ -35,7 +36,8 @@ Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository ai
   - *Mycobacterium tuberculosis*
   - *Streptococcus pneumoniae*
 
-### Healthcare-Associated Infections (HAIs)
+## Healthcare-Associated Infections (HAIs)
+Healthcare-associated infections (HAIs) are infections that patients acquire while receiving treatment for other conditions within a healthcare setting.
 - **Bacteria**:
   - *Staphylococcus aureus* (MRSA)
   - *Clostridioides difficile*
@@ -44,8 +46,10 @@ Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository ai
 - **Fungi**:
   - *Candida auris*
 - **Viruses**:
-  - 
-### Vector-Borne Diseases
+  - *Norovirus*
+
+## Vector-Borne Diseases
+Vector-borne diseases are infections transmitted by vectors, such as mosquitoes and ticks.
 - **Viruses**:
   - *Dengue Virus*
   - *Zika Virus*
@@ -54,16 +58,19 @@ Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository ai
 - **Parasites**:
   - *Plasmodium* spp. (Malaria)
 
-### Foodborne Diseases
+## Foodborne Diseases
+Foodborne diseases result from the consumption of contaminated food and/or water.
 - **Bacteria**:
   - *Salmonella* spp.
   - *Escherichia coli* (E. coli)
   - *Listeria monocytogenes*
+  - *Vibrio cholerae*
 - **Viruses**:
   - *Hepatitis A*
   - *Norovirus*
 
-### Sexually Transmitted Infections (STIs)
+## Sexually Transmitted Infections (STIs)
+Sexually transmitted infections (STIs) are infections that are primarily spread through sexual contact.
 - **Viruses**:
   - *HIV (Human Immunodeficiency Virus)*
   - *HPV (Human Papillomavirus)*
@@ -73,7 +80,8 @@ Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository ai
   - *Chlamydia trachomatis*
   - *Treponema pallidum* (Syphilis)
 
-### Vaccine-Preventable Diseases
+## Vaccine-Preventable Diseases
+Vaccine-preventable diseases are infectious diseases for which an effective preventive vaccine exists.
 - **Viruses**:
   - *Measles Virus*
   - *Rubella Virus*
@@ -84,16 +92,18 @@ Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository ai
   - *Bordetella pertussis* (Whooping Cough)
   - *Haemophilus influenzae* type b (Hib)
 
-### Zoonotic Diseases
+## Zoonotic Diseases
+Zoonotic diseases are diseases that can be transmitted from animals to humans.
 - **Viruses**:
   - *Ebola Virus*
   - *Hantaviruses*
-  - *Nipah Virus*
+  - *Mpox virus*
 - **Bacteria**:
   - *Brucella* spp. (Brucellosis)
   - *Bacillus anthracis* (Anthrax)
 
-### Gastrointestinal Diseases
+## Gastrointestinal Diseases
+Gastrointestinal diseases are infections that affect the gastrointestinal tract.
 - **Viruses**:
   - *Rotavirus*
   - *Norovirus*
@@ -102,7 +112,15 @@ Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository ai
   - *Salmonella* spp.
   - *Clostridioides difficile*
 
-### Emerging Infectious Diseases
+## Parasitic Diseases
+Parasitic diseases are caused by parasites, which can be protozoa, helminths, or ectoparasites.
+- **Parasites**:
+  - *Plasmodium* spp. (Malaria)
+  - *Trypanosoma cruzi* (Chagas disease)
+  - *Leishmania* spp. (Leishmaniasis)
+
+## Emerging Infectious Diseases
+Emerging infectious diseases are diseases that have newly appeared in a population or have existed but are rapidly increasing in incidence or geographic range.
 - **Viruses**:
   - *SARS-CoV-2*
   - *MERS-CoV*
@@ -111,7 +129,7 @@ Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository ai
 - **Others**:
   - *Nipah Virus*
 
-### WHO Priority Pathogens
+## WHO Priority Pathogens
 - **Critical Group**:
   - *Acinetobacter baumannii* (carbapenem-resistant)
   - *Enterobacterales* (carbapenem-resistant, ESBL-producing)
@@ -139,18 +157,32 @@ Welcome to the Pathogen-Genomics-in-Public-Health repository. This repository ai
   - *Rift Valley fever*
   - *Zika virus disease*
   - *Coronavirus disease (COVID-19)*
-  - *“Disease X”**
 
-### Antimicrobial Resistance (AMR)
+## Antimicrobial Resistance (AMR)
+Antimicrobial resistance (AMR) occurs when microorganisms such as bacteria, viruses, fungi, and parasites evolve to resist the effects of medications, making standard treatments ineffective.
 - **Key Pathogens**:
   - *Carbapenem-resistant Enterobacteriaceae (CRE)*
   - *Methicillin-resistant Staphylococcus aureus (MRSA)*
   - *Vancomycin-resistant Enterococci (VRE)*
   - *Multidrug-resistant Mycobacterium tuberculosis (MDR-TB)*
 
-## Updates
-Stay informed about the latest updates and developments in pathogen genomics. Check back regularly for new workflows and enhancements.
+## Cross-Cutting Methodologies
+This section includes methodologies that are applicable across various types of pathogens and disease categories.
+- Wastewater surveillance
+- One Health approach
+- Genomic epidemiology
+
+## Resources
+This section provides links to tools, databases, and additional resources that users might find helpful.
+- [CDC Genomic Epidemiology Toolkit](https://www.cdc.gov/advanced-molecular-detection/php/training/index.html)
+- [Nextstrain](https://nextstrain.org/)
+- [GISAID](https://www.gisaid.org/)
+- [NCBI GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
+
+## Scientific Updates
+Stay informed about the latest updates and developments in pathogen genomics. Check back regularly for new workflows and updates. 
 
 ## Contributing
 Contributions from the community are welcome. 
+
 
